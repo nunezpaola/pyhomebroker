@@ -61,6 +61,12 @@ brokers = [
     'page': 'https://operar.maestroyhuerres.com'
     },
     {
+    'broker_id': 142,
+    'name': 'Neix S.A.',
+    'pageold': 'https://clientaccess.neix.com.ar',
+    'page': 'https://oldhb.neix.com.ar/'
+    },
+    {
     'broker_id': 153,
     'name': 'Bolsa de Comercio del Chaco',
     'page': 'https://clientes.bcch.org.ar'
